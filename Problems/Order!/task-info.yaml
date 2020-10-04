@@ -1,0 +1,30 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6381
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 51. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    7790765547678990
+    7790765557679990
+    7790765557778900
+    Correct output:
+    True
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 5, in <module>
+        result == num1 <  num2 < num3
+    NameError: name 'result' is not defined
+  time: Sun, 04 Oct 2020 18:18:47 UTC
+record: -1
